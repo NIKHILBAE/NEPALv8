@@ -7,5 +7,4 @@ git clone --depth 1 https://github.com/NIKHILBAE/NEPALv8
 cd NEPALv8
 pip3 install -r requirements.txt
 python3 run.py
-
 ```
