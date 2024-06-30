@@ -1,4 +1,5 @@
-requests
+fastdotcom
 mechanize
+requests
 futures
 bs4
